@@ -1,0 +1,4 @@
+-Se agregaron eventos para las teclas izquierda, derecha, arriba, abajo
+-Se agrego la posibilidad de aumentar o disminuir el tamaño del triangulo
+-Se agrego la posiblidad de cambiar el color del tamaño del triangulo
+-Se agrego el movimiento en diagonal mediante botones del widget 
